@@ -8,7 +8,7 @@ You can contact us in the following three ways.
 
 Email: abraKira1912@gmail.com
 
-Tel: 91732611
+Tel: +85291732611
 
 GitHub: Submit the issue directly!
 
